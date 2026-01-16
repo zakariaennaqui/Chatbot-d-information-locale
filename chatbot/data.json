@@ -1,0 +1,14 @@
+{
+  "services": [
+    { "keyword": "mairie", "answer": "La mairie est ouverte du lundi au vendredi de 8h à 16h." },
+    { "keyword": "bibliothèque", "answer": "La bibliothèque municipale ouvre de 9h à 19h." }
+  ],
+  "transports": [
+    { "keyword": "bus", "answer": "Les bus circulent de 6h à 22h." },
+    { "keyword": "tram", "answer": "Le tramway fonctionne jusqu'à minuit." }
+  ],
+  "events": [
+    { "keyword": "concert", "answer": "Un concert est prévu samedi à la place centrale." },
+    { "keyword": "festival", "answer": "Le festival annuel commence le 15 août." }
+  ]
+}

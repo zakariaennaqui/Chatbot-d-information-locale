@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Bonjour",
+        "Salut",
+        "Hello",
+        "Hi",
+        "Coucou",
+        "Bonsoir",
+        "Hey",
+        "Yo",
+        "Salam"
+      ],
+      "responses": [
+        "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
+        "Salut ! Que souhaitez-vous savoir ?",
+        "Hello ! Je suis là pour vous renseigner.",
+        "Bonjour ! Posez-moi vos questions sur les événements, services ou transports."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Au revoir",
+        "Bye",
+        "A plus",
+        "Ciao",
+        "Merci, au revoir",
+        "Salut",
+        "À bientôt",
+        "Adieu"
+      ],
+      "responses": [
+        "Au revoir ! Bonne journée !",
+        "À bientôt !",
+        "Bonne continuation !",
+        "Au plaisir de vous revoir !"
+      ]
+    }
+  ]
+}
